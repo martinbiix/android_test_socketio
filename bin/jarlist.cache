@@ -1,0 +1,9 @@
+# cache for current jar dependency. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1390855023000 36480 d78566b67be139b182eb701e4710b549af4ff79d /home/martin/Documentos/Android Bundle/Librerias/json-org.jar
+1390869681000 36480 d78566b67be139b182eb701e4710b549af4ff79d /home/martin/Proyectos/android/libreria.socket.io/libs/json-org.jar
+1390869681000 93556 4bf15a84075c786d446133a59a34c20c8a82648f /home/martin/Proyectos/android/libreria.socket.io/libs/WebSocket.jar
+1390855016000 93556 4bf15a84075c786d446133a59a34c20c8a82648f /home/martin/Documentos/Android Bundle/Librerias/WebSocket.jar
+1390582925000 621451 5896b0a4e377ac4242eb2bc785220c1c4fc052f4 /home/martin/Proyectos/android/test/libs/android-support-v4.jar
+1390854823000 621451 5896b0a4e377ac4242eb2bc785220c1c4fc052f4 /home/martin/Proyectos/android/libreria.socket.io/libs/android-support-v4.jar
